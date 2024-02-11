@@ -1,0 +1,13 @@
+html{
+    background-color: darkgreen;
+}
+a{
+    font-size: xx-large;
+    color: black;
+}
+button{
+    color:aquamarine;
+    background-color: black;
+    font-size: 100px;
+    text-align: center;
+}
