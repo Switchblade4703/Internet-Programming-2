@@ -1,0 +1,12 @@
+html{
+    background-color: rebeccapurple;
+}
+button{
+    color: rgb(46, 177, 177);
+    background-color: black;
+    width: 160px;
+    height: 100px;
+    font-size: large;
+    display: block;
+    margin: auto;
+}
